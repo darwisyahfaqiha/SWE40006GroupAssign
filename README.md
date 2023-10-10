@@ -12,15 +12,12 @@ The DevOps Pipeline project is designed to help you establish an end-to-end DevO
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [Contributing](#contributing)
-4. [License](#license)
-5. [Documentation](#documentation)
-6. [Screenshots](#screenshots)
-7. [Configuration](#configuration)
-8. [Testing](#testing)
-9. [Continuous Integration/Continuous Deployment (CI/CD)](#ci-cd)
-10. [Security](#security)
-11. [Dependencies](#dependencies)
-12. [Authors and Contributors](#authors-and-contributors)
+4. [Documentation](#documentation)
+5. [Configuration](#configuration)
+6. [Testing](#testing)
+7. [Continuous Integration/Continuous Deployment (CI/CD)](#ci-cd)
+8. [Dependencies](#dependencies)
+9. [Authors and Contributors](#authors-and-contributors)
 
 ---
 
